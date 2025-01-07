@@ -18,6 +18,9 @@ A ChatGPT Free Mirror is a backup website created by replicating the content and
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - A ChatGPT-4 mirror that supports GPT-4 and 4o, offering a simple and convenient experience.
 - [https://lanjing.ai/](https://lanjing.ai/) - **Free ChatGPT**: Supports GPT-4 and 4o as well as MJ drawing.
 
+## Friend Links
+[https://onlyguo.github.io/free-chatgpt-mirror/](https://onlyguo.github.io/free-chatgpt-mirror/)
+
 ## Summary of Other Large Models
 
 - [https://yiyan.baidu.com/](https://yiyan.baidu.com/) - Wenxin Yiyuan, developed by Baidu.
